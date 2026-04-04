@@ -2,11 +2,11 @@
 
 ## VLM
 
-## Spatial Agent
+### Spatial Agent
 
-## Spatial memory
+### Spatial memory
 
-## Spatial Perception and COT
+### Spatial Perception and COT
 
 ## VLA
 
