@@ -4,6 +4,7 @@
 #### holomotion
 #### BFM-2（no report）
 #### OmniRetarget
+#### Humanoid-GPT
 
 
 
