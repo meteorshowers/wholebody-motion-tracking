@@ -10,3 +10,6 @@
 ### system
 #### IsaacGym，IsaacLab，Mujoco、Pybullet、Gazebo
 
+
+### with perception
+#### RPL: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains
